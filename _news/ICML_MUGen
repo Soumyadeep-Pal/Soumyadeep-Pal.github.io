@@ -1,7 +1,0 @@
----
-layout: post
-date: 2025-06-10 07:59:00 +0000
-inline: true
----
-
-:tada: A short version of my first-author paper <a href='https://arxiv.org/abs/2506.14003'>Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs</a>  accepted as an oral an <a href='https://mugenworkshop.github.io'>MUGen @ ICML'25</a> ! This is an exciting work in progress 🤩
